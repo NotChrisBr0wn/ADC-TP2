@@ -26,3 +26,4 @@ def imprime_lista_de_clientes(lista_de_clientes):
     #TODO: Implementar esta função
     # ...
     pass
+

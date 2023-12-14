@@ -53,8 +53,7 @@ def guarda_as_listas_em_ficheiros(lista_de_veiculos, lista_de_clientes, lista_de
     """
 
     with open(nome_do_ficheiro, "wb") as f:
-        pickle.dump(dados, f)
-
+        pickle.dump(dados, f
 def le_de_ficheiro(nome_ficheiro):
     """Lê os dados de um ficheiro
 
